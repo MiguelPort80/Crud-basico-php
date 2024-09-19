@@ -1,0 +1,15 @@
+{
+  "autoload":{
+    "files":[
+      "/home/miguel/cursos/php/pratical/arch/app/functions/validate.php",
+      "/home/miguel/cursos/php/pratical/arch/app/functions/custom.php",
+      "/home/miguel/cursos/php/pratical/arch/app/functions/pages.php",
+      "/home/miguel/cursos/php/pratical/arch/app/functions/flash.php",
+      "/home/miguel/cursos/php/pratical/arch/app/functions/sendMailer.php",
+      "/home/miguel/cursos/php/pratical/arch/app/functions/database.php"
+    ]
+  },
+  "require": {
+    "phpmailer/phpmailer": "^6.9"
+  }
+}
